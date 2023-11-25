@@ -1,4 +1,5 @@
-![logo](https://github.com/Swarnadeep-sahani/Swarnadeep-sahani/blob/main/Swarnadeep.jpg)
+![Swarnadeep](https://github.com/Swarnadeep-sahani/Swarnadeep-sahani/assets/108685284/35f6ac62-1f55-4378-a3ca-5a4cff1102c0)
+
 
 <h1 align="center">Hi 👋, I'm Swarnadeep Sahani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
